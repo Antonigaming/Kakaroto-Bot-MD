@@ -86,7 +86,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Kakaroto-Bot-MD
+    cd Kakarot-Bot-MD
     ```
 
 2. Inicia el bot nuevamente:
@@ -102,7 +102,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Kakaroto-Bot-MD
+    cd Kakarot-Bot-MD
     ```
 
 2. Elimina la carpeta MiniSession:
@@ -221,4 +221,4 @@ href="https://github.com/Diomar-s"><img src="https://qu.ax/AcSK.jpg" width="130"
 <a
 href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="BrunoSobrino"/></a>
 
-[© Powered By KAKAROTO Team ⚡︎](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t)
+[© Powered By KAKAROT Team ⚡︎](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t)
