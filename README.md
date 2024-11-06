@@ -1,15 +1,15 @@
-<h1 align="center">KAKAROTO-BOT-MD 💨</h1>
+<h1 align="center">KAKAROT-BOT-MD 💨</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Kakaroto+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+legendary;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
-![Kakaroto](https://i.ibb.co/4NWqF0m/file.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Kakarot+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+legendary;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
+![Kakarot](https://i.ibb.co/4NWqF0m/file.jpg)
 
 <div align="center">
  
-[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573142051545)
+[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18098781279)
 [![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573142051545)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kakaroto-bot)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kakarot-bot)
 </div>
 
 ---
@@ -33,7 +33,7 @@ href="https://wa.me/573142051545?text="><img src="https://qu.ax/ugHh.jpg" height
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-* https://wa.me/573142051545
+* https://wa.me/18098781279
 
 ---
 
@@ -67,7 +67,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Diomar-s/Kakaroto-Bot-MD && cd Kakaroto-Bot-MD
+git clone https://github.com/Antonigaming/Kakarot-Bot-MD && cd Kakarot-Bot-MD
 ```
 
 ```bash
